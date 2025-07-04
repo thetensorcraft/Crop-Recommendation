@@ -20,9 +20,10 @@ A simple yet powerful **Machine Learning Web App** built with **Streamlit** that
 ---
 
 📊 Model Details
-Algorithm: (Naive Bayes)
-Accuracy: ~98-99% on test set
-Dataset:
+- Algorithm: Naive Bayes
+- Accuracy: ~ 98-99% on test set
+- Cross Validation: Accuracy ~ 98-99, Std ~ 0.15
+- Dataset: https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset
 
 ---
 
