@@ -35,7 +35,10 @@ A simple yet powerful **Machine Learning Web App** built with **Streamlit** that
 - **Joblib** (Model Serialization)
 
 ---
+## 🚀 Live Test
+Link: http://thetensorcraft-crop-recommendation.streamlit.app/
 
+---
 ## 📦 How to Run Locally
 
 1. Clone the repository:
