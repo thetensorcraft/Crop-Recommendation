@@ -19,6 +19,13 @@ A simple yet powerful **Machine Learning Web App** built with **Streamlit** that
 
 ---
 
+📊 Model Details
+Algorithm: (Naive Bayes)
+Accuracy: ~98-99% on test set
+Dataset:
+
+---
+
 ## 🛠️ Technologies Used
 - **Python 3** (Programming Language)
 - **Scikit-learn** (Model Building & Scaling)
@@ -32,8 +39,8 @@ A simple yet powerful **Machine Learning Web App** built with **Streamlit** that
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/thetensorcraft/crop-recommendation-app.git
-   cd crop-recommendation-app
+   git clone https://github.com/thetensorcraft/Crop-Recommendation.git
+   cd Crop-Recommendation
     bash```
 
 2. Install required packages:
