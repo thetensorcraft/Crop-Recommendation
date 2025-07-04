@@ -45,16 +45,13 @@ Link: http://thetensorcraft-crop-recommendation.streamlit.app/
     ```bash
    git clone https://github.com/thetensorcraft/Crop-Recommendation.git
    cd Crop-Recommendation
-    bash```
 
 2. Install required packages:
     ```bash
     uv init
     uv venv --python 3.13.0
     uv install -r requirements.txt
-    bash```
 
 3. Run the app
     ```bash
     uv run streamlit run app.py
-    bash```
